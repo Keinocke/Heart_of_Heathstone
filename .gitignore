@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+*.env/
+Hearthstoneproj.env/
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Logs and outputs
+*.log
+*_out.txt
+deck_tournament*_out.txt
+champion_test*_out.txt
+
+# Large/generated result files if you do not want them in GitHub
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
