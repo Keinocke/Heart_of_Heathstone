@@ -1,0 +1,10 @@
+champion,challenger,champion_wins,challenger_wins,draws,crashes,games,champion_winrate,challenger_winrate
+DRUID_4,DRUID_9,98,2,0,0,100,0.98,0.02
+DRUID_4,DRUID_8,82,17,1,0,100,0.82,0.17
+DRUID_4,DRUID_1,82,17,1,0,100,0.82,0.17
+DRUID_4,DRUID_0,74,26,0,0,100,0.74,0.26
+DRUID_4,DRUID_3,71,29,0,0,100,0.71,0.29
+DRUID_4,DRUID_2,67,33,0,0,100,0.67,0.33
+DRUID_4,DRUID_6,60,40,0,0,100,0.6,0.4
+DRUID_4,DRUID_7,44,56,0,0,100,0.44,0.56
+DRUID_4,DRUID_5,38,62,0,0,100,0.38,0.62
